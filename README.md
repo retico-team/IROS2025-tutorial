@@ -2,7 +2,7 @@
 
 ### Overview
 
-Welcome to the website for the IROS 2025 Retico tutorial! Retico is a 'robot-ready' spoken dialogue system framework that has been increasingly used for robotic platform because it is incremental (i.e., processes at the word level), distributed (integrates with ROS and ZeroMQ), multimodal (can integrate information from microphones, cameras, robot states, etc), and can be made to be temporally aligned. Retico [is completely public with example systems](https://github.com/retico-team?view_as=public). 
+Welcome to the website for the IROS 2025 Retico tutorial! Retico is a 'robot-ready' spoken dialogue system framework that has been increasingly used for robotic platform because it is incremental (i.e., processes at the word level), distributed (integrates with ROS and ZeroMQ), multimodal (can integrate information from microphones, cameras, robot states, etc), and can be made to be temporally aligned. Retico [is completely open source with example systems](https://github.com/retico-team?view_as=public). 
 
 ### History
 Retico began as a research project, has been upgraded and expanded in the past few years, and recent U.S. National Science Foundation funding has enabled further development of research tools for visualization, benchmarks, and virtual robot platforms. More researchers and practitioners than ever are turning to dialogue systems as a method of communication between humans and robots. Moreover, as agent-based learning and interaction has become more important in the CL/NLP/Robotics communities, this tutorial is very timely.  
