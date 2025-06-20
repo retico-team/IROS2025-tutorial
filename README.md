@@ -11,9 +11,9 @@ Retico began as a research project, has been upgraded and expanded in the past f
 
 The tutorial will first introduce participants to Retico: how to find it and what modules are already available. We will then show them how to plug the modules together to build a fully working system with robot examples. We will then help participants build their own modules and give them some time to work so they recognize how easy it is to make new modules and plug them into existing systems. We will also show participants how to use the tools such as visualization, logging, and bindings with Copellia Sim, a robot simulation platform. We will answer questions participants might have throughout. 
 
-![Example Retico System](retico-example.png)
+Below is an example of a system that used Retico (see [original paper](https://aclanthology.org/2022.sigdial-1.14/))
 
-<img src="retico-example.png" width=50% height=50%>
+<img src="retico-example.png" width=60% height=60%>
 
 ### Organizers
 
