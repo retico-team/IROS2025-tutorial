@@ -30,11 +30,7 @@ Below is an example of a system that used Retico (see [original paper](https://a
 - Build your own system (60 minutes)
 - Logging and evaluation (30 minutes)
 
-### Intended Audience
+### Intended Audience & Preparation
 
-Introductory tutorial for roboticists who are interested in natural spoken interaction between humans and robots. Some knowledge of python is needed. Familiarity with transformer models (e.g., from huggingface) is helpful, but not required. We estimate 20-30 participants because Retico is fairly new to the IROS community. 
-
-### Preparation
-
-Bring a laptop! Not a huge problem if you don't; just showing up and observing will help you learn about Retico, but having a laptop will give you hands-on experience. It helps if you [read about Retico](https://github.com/retico-team?view_as=public) and about the [Incremental Unit Theoretical Model](https://journals.uic.edu/ojs/index.php/dad/article/view/10712). 
+Introductory tutorial for roboticists who are interested in natural spoken interaction between humans and robots. Some knowledge of python is needed. Familiarity with transformer models (e.g., from huggingface) is helpful, but not required. Bring a laptop! Not a huge problem if you don't; just showing up and observing will help you learn about Retico, but having a laptop will give you hands-on experience. It helps if you [read about Retico](https://github.com/retico-team?view_as=public) and about the [Incremental Unit Theoretical Model](https://journals.uic.edu/ojs/index.php/dad/article/view/10712). 
 
