@@ -13,7 +13,7 @@ The tutorial will first introduce participants to Retico: how to find it and wha
 
 Below is an example of a system that used Retico (see [original paper](https://aclanthology.org/2022.sigdial-1.14/))
 
-<img src="retico-example.png">
+<img src="retico-example.png" width=40% height=90%>
 
 ### Organizers
 
