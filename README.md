@@ -22,7 +22,7 @@ Below is an example of a system that used Retico (see [original paper](https://a
 
 ### Schedule
 
-Date: October 24th, afternoon tutorial, 102C
+Date: October 24th, afternoon tutorial, Room 102C
 
 - Brief intro to Retico (15 minutes)
 - Theoretical background (15 minutes)
