@@ -24,15 +24,16 @@ Below is an example of a system that used Retico (see [original paper](https://a
 
 ### Schedule
 
-Date: October 24th, afternoon tutorial, Room 102C
+Date: October 24th, afternoon tutorial 1-5pm, Room 102C
 
-- Brief intro to Retico (15 minutes)
-- Theoretical background (15 minutes)
-- Survey of modules (45 minutes)
-- Build your own module (45 minutes)
-- Break (20 minutes)
-- Build your own system (60 minutes)
-- Logging and evaluation (30 minutes)
+- 1:00 Intro to Retico 
+- 1:30 Theoretical background 
+- 1:45 Survey of modules 
+- 2:00 Build your own module 
+- 3:00 Break (30 minutes)
+- 3:30 Build your own system 
+- 4:30 Logging and evaluation
+- 5:00 Done!
 
 ### Intended Audience & Preparation
 
